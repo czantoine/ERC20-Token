@@ -2,8 +2,8 @@
  create and deploy my own cryptocurrency  Ethereum Token
 
 
-### [Discussions](https://github.com/czantoine/efride/discussions)
-You can discuss on this [page](https://github.com/czantoine/efride/discussions) and share your ideas. 
+### [Discussions](https://github.com/czantoine/ERC20-Token/discussions)
+You can discuss on this [page](https://github.com/czantoine/ERC20-Token/discussions) and share your ideas. 
 
 ###
 Etherscan Ropsten Tesnet Network [here](https://ropsten.etherscan.io/token/0x945d77c562b99fb4a211676ce3865f66fcd0ff17).
